@@ -1,6 +1,6 @@
-# c5-wms
+# c5-Interstellar
 
-> 一套基于`vue.js` `iview`的网站管理系统框架 
+> Interstellar Project
 
 ### 启动说明
 
